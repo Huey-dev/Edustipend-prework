@@ -1,0 +1,64 @@
+.app {
+    display: flex;
+    height: 100vh;
+}
+.main-body{
+    flex-grow: 1;
+    background-color: #f2f2f2;
+
+}
+.side-menu{
+    width: 200px;
+    background-color: rgb(78, 78, 78);
+    padding: 10px;
+}
+.sub_menu_item{
+    color: black;
+    border-radius: 8px;
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+    
+}
+.sub_menu{
+    display: flex;
+    flex-direction: column;
+    
+}
+.menu_header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+}
+.view-more,
+.create-playlist{
+    color: black;
+    background-color: rgb(255, 145, 0);
+    text-align: center;
+    padding: 17px;
+    font-size: 15px;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+.main-body{
+    flex-grow: 1;
+    background-color: #f2f2f2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.centeredText{
+    text-align: left;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.create-playlist{
+    margin-top: 10px;
+}
