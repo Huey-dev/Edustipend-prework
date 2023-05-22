@@ -1,3 +1,8 @@
+## Live Demo
+
+You can see a live demo of this React component [here](https://edustipend-prework-murex.vercel.app/).
+
+
 # React Component - Dropdown Side Menu
 
 This repository contains the code for a React component that implements a dropdown side menu. It consists of a main body component and a side menu component with a dropdown functionality.
@@ -47,6 +52,4 @@ This project is licensed under the MIT License.
 
 ---
 
-## Live Demo
 
-You can see a live demo of this React component [here](https://edustipend-prework-murex.vercel.app/).
