@@ -1,9 +1,8 @@
-# React Component - Dropdown Side Menu, MainBody, Dropdown 
-
-# Live Demo
-https://edustipend-prework-murex.vercel.app/
+# React Component - Dropdown Side Menu
 
 This repository contains the code for a React component that implements a dropdown side menu. It consists of a main body component and a side menu component with a dropdown functionality.
+
+---
 
 ## Installation
 
@@ -38,19 +37,16 @@ function App() {
 
 export default App;
 ```
-
-# Customization
-
-## You can customize the content and styling of the MainBody component to suit your needs.
-## The SideMenu component can be expanded by adding more menu items or modifying the content of the dropdown.
-##Feel free to modify the CSS styles in the respective component CSS files to match your project's design.
-
-#Contributing
+## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
 
-# License
+## License
+
 This project is licensed under the MIT License.
 
-# Live Demo
-https://edustipend-prework-murex.vercel.app/
+---
+
+## Live Demo
+
+You can see a live demo of this React component [here](https://edustipend-prework-murex.vercel.app/).
